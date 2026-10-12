@@ -1,0 +1,58 @@
+{
+  "k": 4,
+  "silhouette": 0.206,
+  "silhouette_by_k": {
+    "2": 0.3,
+    "3": 0.284,
+    "4": 0.205,
+    "5": 0.211,
+    "6": 0.221,
+    "7": 0.206,
+    "8": 0.208,
+    "9": 0.197
+  },
+  "profile": [
+    {
+      "segment": "Champions",
+      "customers": 211,
+      "recency_days": 60.0,
+      "orders": 10.0,
+      "spend": 27762.452,
+      "profit": 3926.09,
+      "revenue share": 0.457,
+      "profit share": 0.701
+    },
+    {
+      "segment": "Profitable, cooling off",
+      "customers": 275,
+      "recency_days": 248.0,
+      "orders": 6.0,
+      "spend": 16010.503,
+      "profit": 1890.36,
+      "revenue share": 0.332,
+      "profit share": 0.501
+    },
+    {
+      "segment": "Loss-making buyers",
+      "customers": 167,
+      "recency_days": 127.0,
+      "orders": 6.0,
+      "spend": 12532.471,
+      "profit": -1102.9,
+      "revenue share": 0.172,
+      "profit share": -0.224
+    },
+    {
+      "segment": "Lapsed",
+      "customers": 142,
+      "recency_days": 307.0,
+      "orders": 3.0,
+      "spend": 2904.835,
+      "profit": 100.94,
+      "revenue share": 0.039,
+      "profit share": 0.022
+    }
+  ],
+  "n_customers": 795,
+  "n_orders": 5496
+}

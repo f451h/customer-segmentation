@@ -1,0 +1,796 @@
+Customer Name,segment_name,rfm_segment,recency,frequency,monetary,profit
+Aaron Bergman,"Profitable, cooling off",Lost / hibernating,583,5,11630.589999999998,3025.84
+Aaron Hawkins,"Profitable, cooling off",Loyal,368,9,27690.7255,5961.41
+Aaron Smayling,"Profitable, cooling off",At risk,347,8,8835.3235,2114.4
+Adam Bellavance,Loss-making buyers,Needs attention,90,8,11577.58,-181.93999999999994
+Adam Hart,Champions,Champions,20,18,26114.2645,4071.84
+Adam Shillingsburg,"Profitable, cooling off",Loyal,508,10,20059.6755,2620.75
+Adrian Barton,Lapsed,Lost / hibernating,217,2,23088.5345,-11853.029999999999
+Adrian Hane,Lapsed,Needs attention,202,3,795.82,-97.49
+Adrian Shami,Loss-making buyers,New / promising,35,5,4615.54,-1291.52
+Aimee Bixby,"Profitable, cooling off",Lost / hibernating,465,2,2913.65,395.71
+Alan Barnes,Champions,Loyal,86,10,17328.985500000003,4252.26
+Alan Dominguez,Loss-making buyers,Lost / hibernating,316,5,16282.756500000001,-6310.540000000001
+Alan Haines,Champions,Champions,4,8,28060.799,5661.699999999999
+Alan Hwang,Champions,Champions,50,17,26217.9035,-34.49000000000011
+Alan Schoenberger,"Profitable, cooling off",Needs attention,202,5,44571.925,6753.61
+Alan Shonely,"Profitable, cooling off",New / promising,64,4,5907.208500000001,766.03
+Alejandro Ballentine,"Profitable, cooling off",Lost / hibernating,362,5,15672.391500000002,942.9500000000002
+Alejandro Grove,Champions,Loyal,121,9,83561.93,20588.92
+Alejandro Savely,"Profitable, cooling off",Lost / hibernating,749,4,16337.61,2248.49
+Aleksandra Gannaway,"Profitable, cooling off",Loyal,379,10,22097.627500000002,1486.8600000000001
+Alex Avila,Champions,Champions,22,9,19583.8605,1338.47
+Alex Grayson,"Profitable, cooling off",At risk,321,7,25658.761,4078.04
+Alex Russell,Champions,Needs attention,5,8,7813.323,1487.2199999999998
+Alice McCarthy,"Profitable, cooling off",At risk,257,7,12924.486,1477.61
+Allen Armold,Lapsed,Needs attention,123,4,6410.46,948.9699999999999
+Allen Golden,Lapsed,Needs attention,124,4,4582.392,525.73
+Allen Rosenblatt,Champions,Needs attention,32,6,6367.8085,441.65000000000003
+Alyssa Crouse,Loss-making buyers,Needs attention,31,6,10921.692000000001,-5772.0
+Alyssa Tate,Lapsed,Lost / hibernating,326,5,1235.3125,-523.72
+Amy Cox,"Profitable, cooling off",At risk,220,12,11448.06,1340.61
+Amy Hunt,Champions,Champions,62,16,26205.389499999997,3636.29
+Andrew Allen,Lapsed,Lost / hibernating,333,5,8006.9605,2412.5499999999997
+Andrew Gjertsen,Lapsed,New / promising,114,3,1406.3400000000001,92.84
+Andrew Roberts,Champions,Champions,40,9,24823.956000000002,724.6599999999999
+Andy Gerbode,"Profitable, cooling off",Lost / hibernating,380,5,11498.087,1757.46
+Andy Reiter,"Profitable, cooling off",Needs attention,145,6,37037.880000000005,14681.2
+Andy Yotov,Lapsed,Lost / hibernating,873,3,2635.35,-399.1
+Anemone Ratner,Loss-making buyers,Needs attention,88,6,11764.877499999999,-57.199999999999925
+Angele Hood,"Profitable, cooling off",New / promising,57,3,15650.15,1408.59
+Ann Blume,Loss-making buyers,Needs attention,8,7,7060.98,-2356.5
+Ann Chong,Lapsed,Lost / hibernating,303,3,7276.6235,1457.29
+Ann Steele,Loss-making buyers,Needs attention,22,7,14490.0185,-1153.9699999999998
+Anna Andreadi,Champions,Needs attention,2,7,9639.532,308.47000000000014
+Anna Chung,Lapsed,Needs attention,120,3,1310.385,-759.24
+Anna Gayman,Lapsed,Lost / hibernating,1055,3,1736.1284999999998,-127.75999999999999
+Anna Haberlin,Loss-making buyers,Lost / hibernating,489,4,10000.316499999999,-376.22999999999985
+Anne McFarland,Lapsed,Lost / hibernating,305,2,459.93,102.53999999999999
+Anne Pryor,Loss-making buyers,Loyal,166,12,27215.451,-1821.6699999999998
+Annie Cyprus,"Profitable, cooling off",Lost / hibernating,488,4,6874.5905,985.94
+Annie Thurman,Champions,Loyal,10,12,16764.8725,2755.73
+Anthony Garverick,Loss-making buyers,At risk,682,7,12532.470500000001,-374.6999999999999
+Anthony Jacobs,Lapsed,Lost / hibernating,726,1,1029.47,-8.120000000000005
+Anthony Johnson,"Profitable, cooling off",At risk,500,7,11276.62,1459.21
+Anthony O'Donnell,Champions,Champions,100,8,25261.2195,7577.639999999999
+Anthony Rawles,Champions,Champions,67,10,33418.649,1488.72
+Anthony Witt,Loss-making buyers,New / promising,7,4,11434.64,-1568.3700000000001
+Arianne Irving,"Profitable, cooling off",At risk,353,7,9516.262999999999,979.54
+Art Ferguson,Champions,Needs attention,29,7,23839.863999999998,1827.6399999999999
+Art Foster,Champions,Champions,3,11,19002.9675,2692.63
+Art Miller,"Profitable, cooling off",Loyal,259,8,25643.8315,1585.09
+Arthur Gainer,"Profitable, cooling off",At risk,662,6,18765.065,3388.9
+Arthur Prichep,Loss-making buyers,Champions,77,10,24198.182,-1679.5900000000001
+Arthur Wiediger,Lapsed,New / promising,117,3,13690.79,1042.9499999999998
+Ashley Jarboe,Champions,Loyal,141,13,23835.046000000002,5336.23
+Astrea Jones,Loss-making buyers,Needs attention,203,8,7290.117,-2741.61
+Barbara Fisher,"Profitable, cooling off",Loyal,156,8,19473.143500000002,1053.0900000000001
+Barry Blumstein,"Profitable, cooling off",At risk,330,6,16694.448,3485.73
+Barry Franz,"Profitable, cooling off",Needs attention,116,6,24113.15,7648.05
+Barry French,Loss-making buyers,New / promising,91,3,15179.61,-1425.9699999999998
+Barry Gonzalez,Champions,Champions,63,15,60682.967,8583.59
+Barry Pond,"Profitable, cooling off",Needs attention,192,5,4967.58,92.25999999999999
+Barry Weirich,Champions,Champions,24,8,40124.99,4784.360000000001
+Bart Folk,Loss-making buyers,New / promising,44,4,3960.31,-954.02
+Bart Pistole,Lapsed,Lost / hibernating,324,2,1220.1399999999999,185.51
+Bart Watters,Champions,New / promising,28,5,18834.2155,4821.9800000000005
+Becky Castell,Loss-making buyers,Needs attention,125,4,6868.3105,-215.77000000000007
+Becky Martin,"Profitable, cooling off",Needs attention,125,3,23289.899,4199.01
+Becky Pak,Champions,Champions,78,8,50378.1595,11765.16
+Ben Ferrer,Loss-making buyers,Lost / hibernating,246,5,2977.9880000000003,-1090.1200000000003
+Ben Peterman,"Profitable, cooling off",New / promising,64,5,14044.8845,2519.59
+Ben Wallace,"Profitable, cooling off",At risk,387,7,29600.030000000002,1161.3400000000001
+Benjamin Farhat,Champions,Needs attention,49,7,23000.75,8394.960000000001
+Benjamin Patterson,Loss-making buyers,Needs attention,69,8,9358.584499999999,-1964.76
+Benjamin Venier,"Profitable, cooling off",Loyal,232,9,42624.297,5079.57
+Berenike Kampe,"Profitable, cooling off",Lost / hibernating,303,5,11540.967,1278.5
+Beth Fritzler,"Profitable, cooling off",Lost / hibernating,407,4,15287.673,306.6099999999999
+Beth Paige,"Profitable, cooling off",Lost / hibernating,581,4,7105.945,1406.63
+Beth Thompson,Loss-making buyers,Champions,69,12,27214.947,-1518.4500000000003
+Bill Donatelli,Champions,Champions,79,14,33880.274,4982.06
+Bill Eplett,Loss-making buyers,Loyal,134,14,28075.790999999997,-1285.52
+Bill Overfelt,"Profitable, cooling off",At risk,220,7,24272.386000000002,651.78
+Bill Shonely,"Profitable, cooling off",Needs attention,95,7,16405.348,1210.6399999999999
+Bill Stewart,Loss-making buyers,New / promising,99,4,4652.33,-2305.2
+Bill Tyler,"Profitable, cooling off",Lost / hibernating,944,3,25276.14,4934.97
+Bobby Elias,Champions,Loyal,139,9,26977.4575,1830.1499999999999
+Bobby Odegard,Champions,Needs attention,46,8,9969.365,554.9399999999998
+Bobby Trafton,Champions,Champions,22,11,31179.3485,2724.71
+Brad Eason,Loss-making buyers,Needs attention,84,7,7703.360000000001,-473.36
+Brad Norvell,"Profitable, cooling off",Lost / hibernating,242,4,8982.561,937.4300000000001
+Brad Thomas,Champions,Champions,4,24,36909.514,1573.2299999999998
+Bradley Drucker,Champions,Champions,3,10,27911.61,4899.86
+Bradley Nguyen,Loss-making buyers,Lost / hibernating,602,5,6970.43,-973.13
+Bradley Talbott,Loss-making buyers,New / promising,53,4,2655.2400000000002,-2830.79
+Brenda Bowman,Loss-making buyers,Loyal,292,8,18873.73,-533.21
+Brendan Dodson,"Profitable, cooling off",At risk,224,6,17576.67,3606.8399999999997
+Brendan Murry,Champions,Champions,62,8,29294.96,3151.88
+Brendan Sweed,"Profitable, cooling off",Needs attention,157,7,23187.8,3663.7
+Brian Dahlen,Loss-making buyers,Lost / hibernating,267,4,8989.49,-297.24000000000007
+Brian DeCherney,Lapsed,Needs attention,144,6,3607.58,-248.78
+Brian Derr,Lapsed,Lost / hibernating,278,2,12976.4,207.08999999999997
+Brian Moss,"Profitable, cooling off",At risk,302,8,11195.684,528.5699999999999
+Brian Stugart,Champions,Loyal,119,10,25889.96,1023.3500000000001
+Brian Thompson,Lapsed,Lost / hibernating,538,4,1653.25,250.17999999999998
+Brooke Gillingham,"Profitable, cooling off",Needs attention,146,6,35679.28,7426.879999999999
+Brosina Hoffman,"Profitable, cooling off",Lost / hibernating,452,3,24125.39,568.8700000000008
+Bruce Degenhardt,"Profitable, cooling off",Lost / hibernating,552,5,21475.2185,1884.1999999999998
+Bruce Money,Lapsed,Lost / hibernating,265,3,1167.03,-128.05
+Bruce Stewart,"Profitable, cooling off",Needs attention,54,6,7739.62,1765.38
+Bryan Davis,Lapsed,Needs attention,148,3,2354.7,-328.18
+Bryan Mills,"Profitable, cooling off",At risk,509,6,20691.289,4621.239999999999
+Bryan Spruell,Loss-making buyers,Needs attention,39,8,7428.2390000000005,-88.39000000000007
+Candace McMahon,Lapsed,At risk,258,8,3429.75,-168.5
+Cari MacIntyre,Champions,Champions,27,9,35594.996,3601.5300000000007
+Cari Sayre,Champions,Loyal,215,11,50702.966499999995,4816.79
+Cari Schnelling,"Profitable, cooling off",At risk,253,6,7915.03,1144.77
+Carl Jackson,"Profitable, cooling off",New / promising,40,4,14451.4165,3587.08
+Carl Ludwig,Loss-making buyers,Lost / hibernating,649,5,14143.66,-919.46
+Carl Weiss,"Profitable, cooling off",Loyal,521,9,27483.391,3468.45
+Carlos Daly,Champions,Champions,60,10,33724.7355,9218.449999999999
+Carlos Meador,Loss-making buyers,Loyal,283,12,30735.367,-3844.4500000000003
+Carlos Soltero,Champions,Champions,62,20,55575.087999999996,-9.170000000000002
+Carol Adams,Lapsed,Lost / hibernating,267,4,5536.83,964.7099999999999
+Carol Darley,Loss-making buyers,Needs attention,20,6,9930.7515,-1252.51
+Carol Triggs,Loss-making buyers,Needs attention,92,9,7060.3395,-1882.69
+Caroline Jumper,Champions,Champions,106,9,19831.0765,601.81
+Cassandra Brandow,Lapsed,New / promising,79,4,2985.56,427.7
+Catherine Glotzbach,Loss-making buyers,Needs attention,61,7,4412.021,-752.85
+Cathy Armstrong,Loss-making buyers,Needs attention,135,7,23102.8425,-426.82000000000005
+Cathy Hwang,Lapsed,Lost / hibernating,1187,2,4312.0335000000005,-102.03999999999999
+Cathy Prescott,"Profitable, cooling off",Lost / hibernating,616,4,23227.850000000002,6940.27
+Chad Cunningham,Lapsed,Lost / hibernating,436,4,1486.1,534.43
+Chad McGuire,"Profitable, cooling off",Lost / hibernating,328,4,5121.92,902.4300000000001
+Chad Sievert,Champions,Needs attention,64,6,29585.21,9008.97
+Charles Crestani,"Profitable, cooling off",Loyal,317,10,40030.8255,5529.4400000000005
+Charles McCrossin,"Profitable, cooling off",Needs attention,188,5,25045.420000000002,6354.089999999999
+Charles Sheldon,"Profitable, cooling off",Lost / hibernating,717,3,16978.666,297.47000000000025
+Charlotte Melton,"Profitable, cooling off",Lost / hibernating,466,5,7188.12,2787.04
+Chloris Kastensmidt,"Profitable, cooling off",Lost / hibernating,1234,2,16178.89,2704.64
+Chris Cortes,Loss-making buyers,New / promising,89,5,22077.733,-3615.1800000000003
+Chris McAfee,Lapsed,Lost / hibernating,714,2,350.18,69.2
+Chris Selesnick,"Profitable, cooling off",Lost / hibernating,234,5,9718.648,2893.1800000000003
+Christina Anderson,"Profitable, cooling off",Lost / hibernating,239,5,25136.309999999998,322.0399999999997
+Christina DeMoss,"Profitable, cooling off",Lost / hibernating,280,5,17080.134,1272.44
+Christina Vanderzanden,Champions,Loyal,148,11,22776.318499999998,1467.0800000000002
+Christine Abelman,Champions,Champions,68,9,45365.7505,7273.0
+Christine Kargatis,Lapsed,Lost / hibernating,481,2,293.21999999999997,56.08
+Christine Phan,Lapsed,Needs attention,138,4,7719.012500000001,736.28
+Christine Sundaresam,Loss-making buyers,Loyal,429,9,17420.85,-1653.43
+Christopher Conant,Loss-making buyers,Needs attention,119,8,9465.976,-5824.13
+Christopher Martinez,Champions,Champions,52,10,37289.066,6278.81
+Christopher Schild,"Profitable, cooling off",Loyal,644,8,15970.5365,1464.2599999999998
+Christy Brittain,Loss-making buyers,Champions,18,15,29061.8675,-3541.98
+Chuck Clark,Champions,Champions,112,11,36028.4065,8312.47
+Chuck Magee,"Profitable, cooling off",New / promising,104,4,4466.26,103.19999999999999
+Chuck Sachs,Loss-making buyers,Loyal,389,8,25904.601000000002,-1020.4000000000001
+Cindy Chapman,Champions,Champions,6,14,27261.8975,3735.62
+Cindy Schnelling,"Profitable, cooling off",Loyal,234,8,30487.0805,8542.759999999998
+Cindy Stewart,"Profitable, cooling off",Loyal,123,8,12567.57,1479.1000000000001
+Claire Good,Loss-making buyers,At risk,308,6,8867.9435,-483.21000000000015
+Claudia Miner,Lapsed,Needs attention,149,6,4561.826,-379.41999999999985
+Clay Cheatham,Loss-making buyers,New / promising,65,5,42255.168000000005,-3799.77
+Clay Ludtke,"Profitable, cooling off",New / promising,76,4,4428.0695,517.04
+Clay Rozendal,Lapsed,Lost / hibernating,540,4,6611.4365,1698.44
+Clytie Kelty,Champions,Loyal,247,10,63189.95,18792.809999999998
+Corey Catlett,Loss-making buyers,Needs attention,201,5,16032.235,-361.47999999999985
+Corey Lock,Loss-making buyers,At risk,242,7,24161.9505,-8392.04
+Corey Roper,Loss-making buyers,Lost / hibernating,303,3,4069.6359999999995,-3.280000000000001
+Corinna Mitchell,"Profitable, cooling off",Lost / hibernating,675,3,14938.990000000002,1636.97
+Craig Carreira,Lapsed,Lost / hibernating,224,1,41343.21,3852.19
+Craig Carroll,Lapsed,At risk,270,7,11493.13,1217.05
+Craig Leslie,"Profitable, cooling off",At risk,318,6,29497.484,5969.709999999999
+Craig Molinari,"Profitable, cooling off",Needs attention,209,7,22570.3775,605.2600000000001
+Craig Rider,Lapsed,Lost / hibernating,656,2,8502.271999999999,2238.57
+Craig Yedwab,"Profitable, cooling off",At risk,233,7,16360.872,1285.14
+Cyma Kinney,Lapsed,Lost / hibernating,319,3,2310.23,332.29
+Cynthia Arntzen,Champions,Champions,35,16,31607.476,4010.6499999999996
+Cynthia Delaney,"Profitable, cooling off",Loyal,185,9,30848.0415,5933.82
+Cynthia Voltz,Loss-making buyers,Needs attention,158,5,6031.7880000000005,-529.18
+Cyra Reiten,Loss-making buyers,New / promising,90,4,16834.37,-8529.67
+Damala Kotsonis,Champions,Needs attention,70,7,22970.254,1154.58
+Dan Campbell,Champions,Champions,88,10,28409.9345,3051.37
+Dan Lawera,"Profitable, cooling off",At risk,380,6,23104.170000000002,2388.71
+Dan Reichenbach,Lapsed,Lost / hibernating,462,4,3468.7299999999996,531.24
+Dana Kaydos,Loss-making buyers,New / promising,109,5,20459.4895,-5196.289999999999
+Daniel Byrd,Loss-making buyers,Lost / hibernating,794,5,7865.08,-641.3599999999999
+Daniel Lacy,Loss-making buyers,Needs attention,158,6,5489.998,-49.559999999999945
+Daniel Raglin,Lapsed,New / promising,94,3,3321.86,184.98000000000002
+Dario Medina,"Profitable, cooling off",At risk,280,6,18937.420000000002,5286.08
+Darren Budd,Champions,Champions,47,26,81577.3435,1857.6599999999999
+Darren Koutras,Lapsed,New / promising,64,3,2437.0595000000003,-1502.24
+Darren Powers,Loss-making buyers,Needs attention,6,9,9287.363,-2368.78
+Darrin Martin,Lapsed,Lost / hibernating,273,4,2074.56,77.34000000000002
+Darrin Sayre,"Profitable, cooling off",At risk,297,7,23338.48,2552.34
+Darrin Van Huff,Champions,Needs attention,23,6,6043.025000000001,1141.24
+Dave Brooks,Lapsed,Lost / hibernating,1024,4,15540.07,-331.96999999999997
+Dave Hallsten,Champions,Champions,29,11,23588.04,35.919999999999845
+Dave Kipp,Loss-making buyers,Champions,67,8,25402.173000000003,-12930.59
+Dave Poirier,Champions,Loyal,165,10,29249.086,4834.82
+David Bremer,Loss-making buyers,Lost / hibernating,398,5,2209.332,-694.21
+David Flashing,Loss-making buyers,Needs attention,119,6,9564.48,-3316.11
+David Kendrick,"Profitable, cooling off",Loyal,268,8,14189.536,326.96
+David Philippe,Loss-making buyers,Loyal,58,9,15976.5345,-701.9100000000002
+David Smith,Lapsed,Lost / hibernating,309,4,3192.8705,261.22999999999996
+David Wiener,Loss-making buyers,Lost / hibernating,711,4,3028.23,-434.02000000000004
+Dean Braden,Lapsed,Lost / hibernating,659,2,5284.823,948.9200000000001
+Dean Katz,"Profitable, cooling off",Lost / hibernating,358,5,11861.511999999999,710.1800000000001
+Dean Percer,"Profitable, cooling off",Needs attention,190,7,34987.7715,9391.55
+Deanra Eno,Champions,Champions,41,13,23201.28,1011.5699999999998
+Deborah Brumfield,Champions,Loyal,363,12,97433.1355,31121.219999999998
+Debra Catini,Loss-making buyers,Needs attention,71,8,8421.92,-1124.06
+Deirdre Greer,Lapsed,Lost / hibernating,318,2,11346.6535,3086.0600000000004
+Delfina Latchford,Lapsed,Lost / hibernating,664,5,3541.758,318.77000000000004
+Denise Leinenbach,"Profitable, cooling off",Needs attention,182,6,15413.949999999999,595.5400000000001
+Denise Monton,Champions,Loyal,218,15,22513.17,2581.13
+Dennis Bolton,Champions,Loyal,101,12,17099.94,2691.31
+Dennis Kane,Champions,Champions,30,13,75967.59049999999,10456.519999999999
+Dennis Pardue,Champions,Champions,79,11,21372.9775,603.03
+Denny Blanton,Loss-making buyers,Lost / hibernating,503,4,12969.188,-1394.3999999999999
+Denny Joy,"Profitable, cooling off",Lost / hibernating,268,5,23310.87,6838.000000000001
+Denny Ordway,Champions,Needs attention,62,7,12916.309,1724.69
+Dianna Arnett,"Profitable, cooling off",Lost / hibernating,280,5,14132.789499999999,3547.17
+Dianna Vittorini,"Profitable, cooling off",Loyal,141,8,15314.538499999999,3897.54
+Dianna Wilson,Loss-making buyers,Lost / hibernating,478,3,9611.36,-770.3299999999999
+Dionis Lloyd,Loss-making buyers,Needs attention,144,7,11855.3475,-274.16999999999996
+Don Jones,Loss-making buyers,Needs attention,35,6,8399.321,-3345.8800000000006
+Don Miller,"Profitable, cooling off",Needs attention,149,7,11676.57,1623.65
+Don Weiss,Lapsed,Lost / hibernating,250,4,4208.048000000001,315.62
+Dorothy Badders,Loss-making buyers,Lost / hibernating,455,5,17521.09,-3779.63
+Dorothy Dickinson,Lapsed,Lost / hibernating,969,1,198.08,32.69
+Dorothy Wardle,Loss-making buyers,Champions,10,9,28598.5625,-916.1900000000005
+Dorris Love,Champions,Loyal,56,10,15867.250000000002,4001.33
+Doug Bickford,Champions,Champions,46,14,41159.648,7823.870000000001
+Doug Jacobs,"Profitable, cooling off",New / promising,113,4,12966.237000000001,4214.15
+Doug O'Connell,Lapsed,Needs attention,149,3,721.65,-171.77
+Duane Benoit,Champions,Champions,42,8,20368.3545,963.4099999999999
+Duane Huffman,Champions,Champions,73,13,19668.1735,1076.62
+Duane Noonan,Loss-making buyers,New / promising,26,5,30369.789999999997,-2558.3700000000003
+Ed Braxton,Champions,Champions,24,22,75802.76,6631.179999999999
+Ed Jacobs,"Profitable, cooling off",Lost / hibernating,483,5,13887.6725,888.13
+Ed Ludwig,"Profitable, cooling off",Needs attention,172,7,18368.42,5101.32
+Edward Becker,"Profitable, cooling off",Loyal,451,13,18149.56,1000.0500000000001
+Edward Hooks,"Profitable, cooling off",New / promising,100,5,34532.76,5673.92
+Edward Nazzal,Champions,Champions,43,16,54511.8035,9099.43
+Eileen Kiefer,Loss-making buyers,Lost / hibernating,455,5,9751.536,-192.51999999999998
+Eleni McCrary,"Profitable, cooling off",Needs attention,124,7,30519.14,2635.13
+Elizabeth Moffitt,"Profitable, cooling off",At risk,613,6,6207.6449999999995,686.16
+Ellis Ballard,"Profitable, cooling off",At risk,390,6,25202.156499999997,5073.5599999999995
+Elpida Rittenbach,"Profitable, cooling off",Lost / hibernating,511,5,9677.297999999999,1331.0900000000001
+Emily Burns,Lapsed,Lost / hibernating,253,3,573.98,-31.49
+Emily Ducich,"Profitable, cooling off",Lost / hibernating,1095,2,26209.65,5721.789999999999
+Emily Grady,Champions,Champions,33,12,28774.013499999997,6529.05
+Emily Phan,Champions,Champions,35,8,117124.43800000001,34005.44
+Eric Barreto,Champions,Loyal,218,17,24769.844,4423.19
+Eric Hoffmann,"Profitable, cooling off",Needs attention,152,4,7300.165999999999,471.96000000000004
+Eric Murdock,Lapsed,New / promising,94,4,343.328,-326.49
+Erica Bern,Champions,Loyal,146,12,60960.5295,381.27
+Erica Hackney,"Profitable, cooling off",Lost / hibernating,390,3,8608.35,2004.6100000000001
+Erica Hernandez,Loss-making buyers,Needs attention,62,6,11552.286,-463.32000000000005
+Erica Smith,"Profitable, cooling off",At risk,339,6,35703.914,3536.1800000000003
+Erin Ashbrook,"Profitable, cooling off",Needs attention,74,7,7588.141,500.08000000000004
+Erin Creighton,Champions,Champions,114,9,35725.0895,5960.04
+Erin Mull,"Profitable, cooling off",Loyal,258,8,32279.0255,10777.659999999998
+Erin Smith,"Profitable, cooling off",Lost / hibernating,217,4,7189.49,1399.9699999999998
+Eudokia Martin,"Profitable, cooling off",Lost / hibernating,221,4,7913.36,1666.11
+Eugene Barchas,"Profitable, cooling off",At risk,233,7,22686.213,2449.3199999999997
+Eugene Hildebrand,Loss-making buyers,At risk,232,6,21144.72,-2109.4700000000003
+Eugene Moren,"Profitable, cooling off",Loyal,281,10,20006.713,4037.6
+Eva Jacobs,Champions,Loyal,136,9,24445.0125,4638.33
+Evan Bailliet,Loss-making buyers,At risk,354,6,3193.9425,-254.33999999999997
+Evan Henry,Champions,Needs attention,6,8,7909.8155,415.29
+Evan Minnotte,Loss-making buyers,At risk,740,6,18286.059999999998,-126.30000000000001
+Filia McAdams,Champions,Needs attention,43,6,29768.4295,4826.89
+Frank Atkinson,"Profitable, cooling off",New / promising,65,5,16155.5745,1467.1
+Frank Carlisle,Lapsed,Needs attention,175,3,2810.08,-1716.86
+Frank Gastineau,Loss-making buyers,Lost / hibernating,287,4,14006.923999999999,-572.7099999999998
+Frank Hawley,"Profitable, cooling off",At risk,248,7,34301.5175,2596.92
+Frank Merwin,Champions,Loyal,282,12,35110.0595,5068.78
+Frank Olsen,Lapsed,Needs attention,163,3,1948.8899999999999,88.14999999999998
+Frank Price,"Profitable, cooling off",Lost / hibernating,260,4,8811.6155,2372.28
+Fred Chung,Lapsed,Needs attention,188,5,4054.161,319.54999999999995
+Fred Harton,Loss-making buyers,Champions,85,9,20464.268,-71.54000000000003
+Fred Hopkins,Lapsed,Lost / hibernating,743,2,968.8689999999999,-176.01000000000002
+Fred McMath,Champions,Champions,116,9,25607.338000000003,1774.44
+Fred Wasserman,"Profitable, cooling off",At risk,476,7,7487.9580000000005,1005.98
+Gary Hansen,Lapsed,Lost / hibernating,361,3,2441.45,273.16999999999996
+Gary Hwang,Loss-making buyers,Champions,60,11,21771.254,-3923.27
+Gary McGarr,"Profitable, cooling off",At risk,408,7,14519.9335,973.4699999999999
+Gary Mitchum,Lapsed,Needs attention,207,3,848.0699999999999,17.63
+Gary Zandusky,Champions,Needs attention,66,7,18544.038,2815.9100000000003
+Gene Hale,"Profitable, cooling off",At risk,464,6,6647.6075,597.89
+Gene McClure,Loss-making buyers,At risk,408,6,7686.2,-1155.3799999999999
+George Ashbrook,"Profitable, cooling off",Needs attention,203,10,11322.7605,1054.29
+George Bell,Loss-making buyers,New / promising,28,5,2952.9385,-290.25
+George Zrebassa,"Profitable, cooling off",Needs attention,100,6,16325.09,702.69
+Georgia Rosenberg,"Profitable, cooling off",Loyal,327,8,15647.49,2364.92
+Giulietta Baptist,Lapsed,New / promising,67,5,6292.67,1394.8400000000001
+Giulietta Dortch,Champions,Champions,86,19,58679.845,11118.6
+Giulietta Weimer,Loss-making buyers,Loyal,6,8,15839.2955,-2075.0899999999997
+Grace Kelly,Loss-making buyers,Lost / hibernating,388,4,3714.3465,-980.4300000000001
+Grant Carroll,Champions,Champions,50,17,88417.0025,27977.29
+Grant Donatelli,Loss-making buyers,New / promising,110,4,15285.53,-1093.8400000000001
+Grant Thornton,Champions,Loyal,29,12,15596.5505,3424.3
+Greg Guthrie,"Profitable, cooling off",Loyal,646,12,33090.42,939.47
+Greg Hansen,"Profitable, cooling off",Lost / hibernating,282,5,14132.98,5708.26
+Greg Matthias,Loss-making buyers,At risk,694,7,13256.2455,-4159.34
+Greg Maxwell,"Profitable, cooling off",Lost / hibernating,240,3,16229.687999999998,3995.03
+Greg Tran,"Profitable, cooling off",New / promising,112,5,30119.413,8686.039999999999
+Guy Armstrong,Loss-making buyers,Loyal,32,10,18803.822,-974.5499999999998
+Guy Phonely,"Profitable, cooling off",Needs attention,173,7,10399.8755,133.97000000000003
+Guy Thornton,"Profitable, cooling off",Needs attention,182,7,18690.3785,4819.1
+Hallie Redmond,Loss-making buyers,Needs attention,117,8,11546.658,-4139.26
+Harold Dahlen,Champions,Loyal,233,15,46556.162,7004.46
+Harold Engle,Champions,Loyal,219,12,52882.2825,12636.17
+Harold Pawlan,Champions,Needs attention,13,7,24331.446,1216.6999999999998
+Harold Ryan,Champions,Champions,63,9,35884.06,10571.800000000001
+Harry Greene,Lapsed,Needs attention,175,3,11194.87,2336.63
+Harry Marie,Loss-making buyers,Needs attention,158,5,15678.463,-1806.87
+Heather Jas,Lapsed,Lost / hibernating,526,3,714.24,4.700000000000003
+Heather Kirkland,"Profitable, cooling off",Lost / hibernating,291,4,17307.548,851.32
+Helen Abelman,"Profitable, cooling off",Lost / hibernating,462,5,15996.559500000001,2452.46
+Helen Andreada,Champions,Loyal,62,10,18378.804,1200.27
+Helen Wasserman,Champions,Loyal,188,14,44416.364,394.1500000000003
+Henia Zydlo,Loss-making buyers,New / promising,61,4,12998.33,-1154.8500000000001
+Henry Goldwyn,"Profitable, cooling off",Needs attention,168,6,26629.809500000003,4887.5199999999995
+Henry MacAllister,Lapsed,Lost / hibernating,290,3,1348.4615,-127.98000000000002
+Herbert Flentye,Loss-making buyers,Lost / hibernating,755,3,4189.175,-1168.02
+Hilary Holden,"Profitable, cooling off",Needs attention,112,6,33997.323000000004,2838.64
+Hunter Glantz,Lapsed,Lost / hibernating,283,2,6445.83,-188.57
+Hunter Lopez,Loss-making buyers,New / promising,51,4,16454.35,-193.7099999999999
+Ionia McGrath,Champions,Champions,33,13,42314.597499999996,11641.77
+Irene Maddox,Loss-making buyers,Lost / hibernating,284,5,19836.305,-6240.160000000001
+Ivan Gibson,Lapsed,New / promising,75,3,706.88,-279.36
+Ivan Liston,Champions,Champions,62,8,38880.47,6647.08
+Jack Garza,"Profitable, cooling off",Needs attention,87,6,13571.349,700.8699999999999
+Jack Lebron,Loss-making buyers,Champions,28,14,51155.799,-1498.3
+Jack O'Briant,Champions,Champions,68,21,56974.694,11359.99
+James Galang,"Profitable, cooling off",Loyal,268,8,17932.791,469.7599999999999
+James Lanier,"Profitable, cooling off",Loyal,381,8,29846.969999999998,5862.66
+Jamie Frazer,Loss-making buyers,Lost / hibernating,382,4,3980.79,-473.7200000000001
+Jamie Kunitz,Champions,Needs attention,52,6,27842.06,8676.74
+Jane Waco,Lapsed,Needs attention,195,4,4598.5475,832.18
+Janet Lee,"Profitable, cooling off",Needs attention,200,7,21422.0875,3075.95
+Janet Martin,Champions,Champions,65,9,34383.84,10601.75
+Janet Molinari,Lapsed,Lost / hibernating,276,3,1348.64,94.35999999999999
+Jas O'Carroll,"Profitable, cooling off",Loyal,409,10,18982.228499999997,457.54
+Jason Fortune,"Profitable, cooling off",Lost / hibernating,605,4,22455.0155,4338.1
+Jason Gross,Lapsed,Lost / hibernating,597,2,1484.04,526.87
+Jason Klamczynski,Loss-making buyers,Needs attention,58,7,23074.469,-1230.1299999999999
+Jasper Cacioppo,"Profitable, cooling off",Needs attention,168,7,61350.090000000004,488.6800000000005
+Jay Fine,Loss-making buyers,Needs attention,76,6,28113.7805,-145.8599999999999
+Jay Kimmel,"Profitable, cooling off",Lost / hibernating,252,3,16429.3,1470.49
+Jenna Caffey,Loss-making buyers,Needs attention,157,8,10648.5085,-2088.28
+Jennifer Braxton,"Profitable, cooling off",Needs attention,185,6,13013.1375,793.15
+Jennifer Ferguson,Champions,Champions,28,8,20998.6675,2019.94
+Jennifer Halladay,Champions,New / promising,16,5,17299.48,4512.4
+Jennifer Jackson,Champions,Needs attention,2,7,11314.66,534.8599999999999
+Jennifer Patt,Champions,Loyal,121,10,42356.003,5516.5199999999995
+Jeremy Ellison,Lapsed,New / promising,63,3,5524.13,903.33
+Jeremy Farry,Lapsed,Lost / hibernating,250,2,85.72,6.81
+Jeremy Lonsdale,"Profitable, cooling off",At risk,509,7,19810.635500000004,2360.83
+Jeremy Pistek,Loss-making buyers,Needs attention,16,8,6987.7705,-1070.14
+Jessica Myrick,Loss-making buyers,At risk,247,6,10295.92,-1297.4900000000002
+Jesus Ocampo,Lapsed,Lost / hibernating,682,4,9561.57,2190.19
+Jill Fjeld,"Profitable, cooling off",New / promising,61,4,5215.4400000000005,156.77999999999997
+Jill Matthias,Loss-making buyers,Needs attention,70,7,13624.053,-5627.709999999999
+Jill Stevenson,Champions,New / promising,34,5,27256.4905,7704.429999999999
+Jim Epp,Champions,Champions,1,12,32331.5135,7836.099999999999
+Jim Karlsson,Champions,Needs attention,66,7,20482.911,265.84
+Jim Kriz,"Profitable, cooling off",Loyal,251,9,19534.1595,2001.1000000000001
+Jim Mitchum,Champions,New / promising,21,5,7852.3585,442.5
+Jim Radford,"Profitable, cooling off",At risk,260,7,35978.138999999996,1472.0
+Jim Sink,"Profitable, cooling off",Loyal,225,9,33491.987,1053.15
+Jocasta Rupert,"Profitable, cooling off",Lost / hibernating,241,3,24107.399999999998,6788.74
+Joe Elijah,Lapsed,At risk,518,6,4138.4285,-324.02
+Joe Kamberova,Lapsed,Lost / hibernating,513,2,5761.31,-700.02
+Joel Eaton,Champions,Needs attention,45,6,8024.3595,748.91
+Joel Jenkins,Lapsed,Lost / hibernating,608,3,865.26,-106.58
+John Castell,Champions,Loyal,143,11,34824.3215,7554.719999999999
+John Dryer,"Profitable, cooling off",At risk,821,8,11427.09,1173.96
+John Grady,Lapsed,Lost / hibernating,328,3,1764.71,556.1999999999999
+John Huston,Lapsed,Lost / hibernating,234,2,4039.1000000000004,275.98
+John Lee,"Profitable, cooling off",Loyal,272,10,22803.96,609.1399999999999
+John Lucas,Champions,Champions,29,14,79696.1875,12725.08
+John Murray,Champions,Needs attention,73,7,37036.0265,7254.95
+John Stevenson,"Profitable, cooling off",Lost / hibernating,304,4,48660.873,18849.93
+Jonathan Doherty,Champions,Champions,20,14,37345.1535,6075.26
+Jonathan Howell,Lapsed,Lost / hibernating,335,5,2835.7165,149.32999999999996
+Joni Blumstein,Champions,Champions,13,14,22179.0535,4786.299999999999
+Joni Sundaresam,Lapsed,New / promising,103,3,650.77,-146.62
+Joni Wasserman,Loss-making buyers,Needs attention,28,8,6869.836,-1155.53
+Joseph Airdo,"Profitable, cooling off",Loyal,248,12,15920.8105,3037.7
+Joseph Holt,"Profitable, cooling off",Lost / hibernating,491,3,9426.5,1774.5
+Joy Bell,"Profitable, cooling off",Needs attention,85,6,22948.7625,2501.8900000000003
+Joy Daniels,Champions,New / promising,7,3,4697.7235,579.44
+Joy Smith,Champions,Loyal,177,16,40768.833,5132.99
+Julia Barnett,Loss-making buyers,Champions,19,12,80044.452,-1956.0900000000001
+Julia Dunbar,"Profitable, cooling off",Loyal,203,9,20868.0975,738.4300000000001
+Julia West,Loss-making buyers,Loyal,203,9,44021.42,-14154.29
+Juliana Krohn,Champions,Champions,69,8,46672.009,232.43000000000023
+Julie Creighton,Lapsed,New / promising,87,5,4143.558,-169.58
+Julie Kriz,"Profitable, cooling off",At risk,276,6,35294.479999999996,2243.64
+Julie Prescott,"Profitable, cooling off",At risk,304,6,20917.49,3842.1400000000003
+Justin Deggeller,Lapsed,Lost / hibernating,437,3,3600.1440000000002,121.06
+Justin Ellison,"Profitable, cooling off",At risk,247,6,25264.15,4532.699999999999
+Justin Hirsh,Champions,Loyal,163,11,12303.6725,358.7599999999999
+Justin Knight,"Profitable, cooling off",Loyal,383,8,18807.251,1365.6299999999999
+Justin MacKendrick,"Profitable, cooling off",Needs attention,151,4,37675.81,11033.87
+Kalyca Meade,Lapsed,Lost / hibernating,409,4,1661.21,330.37
+Karen Bern,Lapsed,Lost / hibernating,494,3,1563.7075,110.75
+Karen Carlisle,Champions,Loyal,205,11,59313.323,21731.53
+Karen Daniels,Loss-making buyers,Lost / hibernating,412,4,13235.8,-2649.46
+Karen Ferguson,Loss-making buyers,New / promising,75,5,13649.0635,-269.27000000000004
+Karen Seio,"Profitable, cooling off",Needs attention,142,6,24491.428,3543.09
+Karl Brown,Champions,Loyal,132,14,44992.831,9625.32
+Katharine Harms,"Profitable, cooling off",Lost / hibernating,312,3,20914.09,3469.5299999999997
+Katherine Ducich,Lapsed,Needs attention,125,4,4159.3485,369.78999999999996
+Katherine Hughes,"Profitable, cooling off",Needs attention,66,6,13096.347,263.10999999999973
+Katherine Murray,"Profitable, cooling off",Needs attention,212,4,19712.9755,4972.719999999999
+Katherine Nockton,Loss-making buyers,Loyal,185,11,25005.516,-677.25
+Katrina Bavinger,Champions,New / promising,33,5,22584.1505,5259.99
+Katrina Edelman,Lapsed,Lost / hibernating,574,2,180.76000000000002,-103.22
+Katrina Willman,Loss-making buyers,Needs attention,207,7,25168.8965,-1299.6399999999999
+Kean Nguyen,"Profitable, cooling off",Needs attention,159,7,9277.925000000001,2464.73
+Kean Takahito,"Profitable, cooling off",Lost / hibernating,998,2,7570.142,848.3100000000001
+Kean Thornton,Loss-making buyers,Needs attention,12,6,6832.89,-434.8100000000001
+Keith Dawkins,"Profitable, cooling off",Loyal,304,13,16010.503499999999,1236.1100000000001
+Keith Herrera,"Profitable, cooling off",Lost / hibernating,356,4,11261.0755,179.26
+Kelly Andreada,Champions,Loyal,77,8,17624.8235,1772.35
+Kelly Collister,Lapsed,Lost / hibernating,523,3,471.81000000000006,-221.64999999999998
+Kelly Lampkin,"Profitable, cooling off",At risk,286,7,10990.5905,2360.64
+Kelly Williams,Loss-making buyers,Loyal,41,9,16900.5895,-2026.8000000000002
+Ken Black,Lapsed,New / promising,92,4,2521.81,227.85000000000002
+Ken Brennan,Loss-making buyers,Needs attention,172,7,23058.260000000002,-1978.6
+Ken Dana,Champions,Champions,93,8,25530.4675,1577.49
+Ken Heidel,Champions,Needs attention,15,7,24303.194,962.2300000000006
+Ken Lonsdale,Champions,Loyal,60,10,17304.675499999998,4030.2400000000002
+Khloe Miller,Loss-making buyers,Champions,76,12,22488.41,-5138.28
+Kimberly Carter,"Profitable, cooling off",Loyal,418,8,14097.117,1722.42
+Kristen Hastings,"Profitable, cooling off",Lost / hibernating,358,4,15895.72,1890.36
+Kristina Nunn,"Profitable, cooling off",Needs attention,156,7,14244.1795,532.71
+Larry Blacks,Loss-making buyers,New / promising,37,3,2556.21,-40.629999999999995
+Larry Hughes,Lapsed,Lost / hibernating,527,3,1993.067,-130.97
+Larry Tron,Champions,Champions,88,11,24029.357500000002,3004.83
+Laura Armstrong,Loss-making buyers,Needs attention,131,7,12394.490000000002,-563.5699999999999
+Laurel Beltran,Lapsed,Lost / hibernating,264,4,4531.912,-917.4000000000001
+Laurel Elliston,Champions,Champions,74,9,28981.8145,5526.79
+Laurel Workman,Loss-making buyers,New / promising,20,4,21138.760000000002,-12587.05
+Lauren Leatherbury,Loss-making buyers,Champions,37,15,34621.9395,-11152.83
+Lela Donovan,Champions,Champions,90,9,38012.0305,8629.99
+Lena Cacioppo,"Profitable, cooling off",Lost / hibernating,758,4,2939.316,320.47999999999996
+Lena Creighton,Champions,Champions,10,15,48460.135,2104.4000000000005
+Lena Hernandez,Loss-making buyers,New / promising,106,4,7008.4265000000005,-794.87
+Lena Radford,Loss-making buyers,Needs attention,4,7,5169.2175,-576.5799999999999
+Linda Cazamias,"Profitable, cooling off",Lost / hibernating,1200,2,12119.77,4264.0599999999995
+Linda Southworth,"Profitable, cooling off",Loyal,233,10,26407.6725,4023.65
+Lindsay Castell,"Profitable, cooling off",Loyal,223,8,16702.97,3586.49
+Lindsay Shagiari,Loss-making buyers,New / promising,64,5,6084.9265,-3978.52
+Lindsay Williams,Lapsed,New / promising,110,3,8598.7135,3462.96
+Lisa DeCherney,Champions,Champions,11,13,67914.0005,3619.4700000000003
+Lisa Hazard,Champions,Needs attention,46,6,11459.3025,3006.16
+Lisa Ryan,Lapsed,New / promising,23,3,3489.29,-258.62000000000006
+Liz Carlisle,Champions,Loyal,56,9,12282.804,1596.38
+Liz MacKendrick,Champions,Loyal,182,14,76306.4315,20397.24
+Liz Pelletier,"Profitable, cooling off",Loyal,264,9,16967.415,267.33000000000004
+Liz Price,Champions,Champions,54,13,23662.4305,3727.02
+Liz Thompson,Lapsed,Needs attention,139,4,506.8,-147.24
+Liz Willingham,Champions,Champions,74,10,33230.628,4511.86
+Logan Currie,Lapsed,Lost / hibernating,439,3,8520.4,901.19
+Logan Haushalter,Champions,Champions,2,12,50662.9455,18348.53
+Lori Olson,"Profitable, cooling off",Needs attention,170,4,3194.0299999999997,1103.8000000000002
+Luke Foster,"Profitable, cooling off",New / promising,91,4,21231.0,2210.7400000000002
+Luke Schmidt,Champions,Loyal,160,11,27762.451999999997,4327.56
+Luke Weiss,Champions,Needs attention,20,7,15534.386,4536.11
+Lycoris Saunders,Champions,Champions,3,13,46429.649999999994,9387.82
+Lynn Smith,Loss-making buyers,At risk,616,7,5371.4,-3630.2700000000004
+Magdelene Morse,"Profitable, cooling off",Loyal,187,8,30412.951,6249.38
+Marc Crier,Champions,Champions,55,14,34298.65,5046.56
+Marc Harrigan,Lapsed,Lost / hibernating,1063,3,3628.6805000000004,815.19
+Maria Bertelson,Champions,Loyal,304,15,29606.0065,1693.1399999999999
+Maria Etezadi,Lapsed,Lost / hibernating,1243,1,1219.2485,132.79
+Maria Zettner,Loss-making buyers,Loyal,120,8,19871.816,-3553.6
+Maribeth Dona,Loss-making buyers,Needs attention,207,6,37359.520000000004,-3418.38
+Maribeth Schnelling,Loss-making buyers,Needs attention,126,4,1722.5100000000002,-385.37
+Maribeth Yedwab,Loss-making buyers,Needs attention,1,7,10653.8195,-1109.55
+Marina Lichtenstein,Loss-making buyers,Needs attention,156,4,3238.911,-189.22
+Maris LaWare,Lapsed,Lost / hibernating,410,2,5062.991999999999,1189.11
+Mark Cousins,Champions,Loyal,165,18,70579.72750000001,8377.36
+Mark Haberlin,Lapsed,Needs attention,182,4,3728.5860000000002,-603.59
+Mark Hamilton,Lapsed,Lost / hibernating,385,1,450.99,-91.07
+Mark Packer,"Profitable, cooling off",At risk,673,7,9782.5655,1499.62
+Mark Van Huff,Loss-making buyers,Lost / hibernating,362,3,13864.7975,-657.1999999999999
+Mary O'Rourke,Lapsed,Lost / hibernating,604,3,4110.91,408.09
+Mary Zewe,"Profitable, cooling off",New / promising,78,3,23190.2165,8654.06
+MaryBeth Skach,"Profitable, cooling off",Needs attention,152,6,14278.497,3301.6099999999997
+Mathew Reese,"Profitable, cooling off",Loyal,206,9,25012.9705,1723.5699999999997
+Matt Abelman,Loss-making buyers,Loyal,141,12,60962.347,-2256.84
+Matt Collins,"Profitable, cooling off",Lost / hibernating,668,5,10578.3685,1171.4599999999998
+Matt Collister,"Profitable, cooling off",Loyal,292,10,23724.928,1881.06
+Matt Connell,Champions,Needs attention,77,7,23881.36,4902.67
+Matt Hagelstein,Lapsed,New / promising,1,3,683.8999999999999,54.77
+Matthew Clasen,Lapsed,Needs attention,141,3,775.9499999999999,115.18
+Matthew Grinstein,Champions,Champions,64,10,38698.7895,6076.2300000000005
+Maureen Fritzler,"Profitable, cooling off",At risk,258,6,12873.3755,3931.42
+Maureen Gastineau,Champions,Champions,108,7,29885.510000000002,4485.35
+Maureen Grace,Lapsed,Lost / hibernating,947,1,3681.7495,1196.44
+Maurice Satty,Lapsed,New / promising,7,4,555.82,-69.86
+Max Engle,Loss-making buyers,At risk,361,6,2681.0225,-1668.5
+Max Jones,Champions,Champions,88,10,29810.989999999998,6022.59
+Max Ludwig,"Profitable, cooling off",Lost / hibernating,727,4,10922.702,2542.2200000000003
+Maxwell Schwartz,Loss-making buyers,Loyal,149,11,30928.836499999998,-6043.8499999999985
+Maya Herman,Loss-making buyers,Needs attention,110,7,7274.6065,-413.74
+Meg O'Connel,Loss-making buyers,Champions,56,11,30557.7815,-7411.169999999999
+Meg Tillman,"Profitable, cooling off",Loyal,169,8,29898.234500000002,1752.5500000000002
+Melanie Page,"Profitable, cooling off",Lost / hibernating,390,5,19415.425,2808.4
+Michael Chen,"Profitable, cooling off",Lost / hibernating,381,4,25141.737,4295.95
+Michael Dominguez,Champions,Loyal,81,16,18670.6405,2352.91
+Michael Grace,Champions,Needs attention,16,8,10884.82,1748.3400000000001
+Michael Granlund,"Profitable, cooling off",Needs attention,131,8,10476.986499999999,1453.0200000000002
+Michael Kennedy,Lapsed,Needs attention,187,5,6339.3115,354.34999999999997
+Michael Moore,Loss-making buyers,Needs attention,127,5,15077.853,-55.79000000000006
+Michael Nguyen,"Profitable, cooling off",Lost / hibernating,657,3,17409.38,4427.07
+Michael Oakman,Champions,Champions,31,11,47040.004,493.30999999999995
+Michael Paige,"Profitable, cooling off",New / promising,83,5,9111.51,843.12
+Michael Stewart,Loss-making buyers,Needs attention,132,5,6140.259,-567.8299999999999
+Michelle Arnett,Champions,Needs attention,67,7,11529.583499999999,209.50000000000006
+Michelle Ellison,Champions,Loyal,148,12,34308.89,1091.6599999999999
+Michelle Huthwaite,"Profitable, cooling off",Loyal,196,7,13895.8125,1703.48
+Michelle Lonsdale,Champions,Champions,38,9,34524.2525,7936.21
+Michelle Moray,"Profitable, cooling off",Loyal,276,9,33055.1975,7012.39
+Michelle Tran,Loss-making buyers,Needs attention,144,10,10174.2555,-4306.36
+Mick Brown,"Profitable, cooling off",Lost / hibernating,875,4,14156.22,2471.4
+Mick Crebagga,Loss-making buyers,Champions,21,12,31042.314,-705.64
+Mick Hernandez,Lapsed,Needs attention,204,3,793.38,-347.07
+Mike Caudle,"Profitable, cooling off",Lost / hibernating,260,4,19580.65,5752.4400000000005
+Mike Gockenbach,"Profitable, cooling off",At risk,476,6,10820.539999999999,314.30000000000007
+Mike Kennedy,Champions,Loyal,135,10,16929.76,4291.349999999999
+Mike Pelletier,"Profitable, cooling off",Needs attention,110,6,17243.277,2296.64
+Mike Vittorini,"Profitable, cooling off",Loyal,139,8,20601.493,3537.0
+Mitch Gastineau,Champions,Champions,91,8,48521.1685,9743.16
+Mitch Webber,Loss-making buyers,Lost / hibernating,433,5,13806.53,-2185.86
+Mitch Willingham,"Profitable, cooling off",Loyal,171,7,30525.550000000003,5386.61
+Monica Federle,Loss-making buyers,Needs attention,55,7,6626.16,-18.64999999999999
+Muhammed Lee,Champions,Champions,76,7,27109.49,6036.99
+Muhammed MacIntyre,Loss-making buyers,Needs attention,121,8,8796.42,-1100.0700000000002
+Muhammed Yedwab,Champions,Champions,35,16,62544.0205,8661.93
+Nancy Lomonaco,"Profitable, cooling off",At risk,591,6,20751.6195,4481.089999999999
+Naresj Patel,Champions,Loyal,118,8,27886.420000000002,7421.45
+Nat Carroll,Champions,Needs attention,21,7,8415.2545,677.51
+Nat Gilpin,Loss-making buyers,At risk,246,7,6346.413500000001,-327.69
+Natalie DeCherney,Lapsed,Lost / hibernating,931,1,125.9,5.85
+Natalie Fritzler,Lapsed,Lost / hibernating,228,2,3005.61,546.11
+Natalie Webber,Champions,Loyal,27,15,13564.495,2376.4900000000002
+Nathan Cano,"Profitable, cooling off",Needs attention,174,5,4284.06,806.4100000000001
+Nathan Gelder,"Profitable, cooling off",Needs attention,147,5,14532.89,2188.0499999999997
+Nathan Mautz,Champions,Champions,42,17,54917.7325,1316.2199999999998
+Neil Ducich,Lapsed,Lost / hibernating,836,4,4263.9580000000005,433.46000000000004
+Neil French,"Profitable, cooling off",Loyal,155,8,19448.710499999997,2014.6999999999998
+Neil Knudson,Champions,Champions,55,14,29858.367,4021.08
+Neola Schneider,"Profitable, cooling off",Lost / hibernating,581,4,6013.87,632.1899999999998
+Neoma Murray,Loss-making buyers,New / promising,22,4,19406.442000000003,-697.1800000000003
+Nick Crebassa,Champions,Champions,92,8,45458.407,14712.949999999999
+Nick Radford,Loss-making buyers,Needs attention,138,5,12877.18,-682.01
+Nick Zandusky,Loss-making buyers,Loyal,568,7,14815.813,-1185.28
+Nicole Brennan,Loss-making buyers,Champions,108,15,44184.6035,-925.2699999999998
+Nicole Fjeld,Lapsed,Lost / hibernating,852,2,153.03,-82.19
+Nicole Hansen,Loss-making buyers,Loyal,241,8,20471.19,-522.72
+Noah Childs,Lapsed,Lost / hibernating,379,3,7636.6225,657.8999999999999
+Noel Staavos,Champions,Loyal,248,12,59092.098,14556.300000000001
+Nona Balk,"Profitable, cooling off",Needs attention,155,6,14075.318500000001,1561.6000000000001
+Nora Paige,Champions,Loyal,5,11,17197.7,1264.14
+Nora Pelletier,Champions,Champions,92,8,22648.883,4143.2300000000005
+Nora Price,Champions,Champions,15,18,25399.844,2516.39
+Odella Nelson,Champions,Loyal,68,9,13080.812,679.1899999999999
+Olvera Toch,"Profitable, cooling off",Loyal,312,7,24633.7035,7975.32
+Pamela Coakley,Lapsed,Needs attention,167,2,564.7035,17.360000000000003
+Pamela Stobb,"Profitable, cooling off",New / promising,63,5,13306.16,2901.3399999999997
+Parhena Norris,"Profitable, cooling off",Needs attention,164,4,31955.079,834.51
+Patricia Hirasaki,"Profitable, cooling off",Needs attention,163,3,2576.17,720.61
+Patrick Bzostek,"Profitable, cooling off",Needs attention,108,6,35495.4365,8341.7
+Patrick Gardner,"Profitable, cooling off",Lost / hibernating,276,5,15785.506499999998,3285.36
+Patrick Jones,Champions,Champions,51,17,35186.024,167.3600000000001
+Patrick O'Brill,"Profitable, cooling off",At risk,289,7,8970.3945,379.74
+Patrick O'Donnell,Champions,Loyal,25,8,13551.109999999999,545.9
+Patrick Ryan,Champions,Champions,69,12,23111.3105,5970.0199999999995
+Paul Gonzalez,Lapsed,Lost / hibernating,665,2,567.89,-83.35000000000001
+Paul Knutson,Champions,Champions,64,7,26188.544500000004,3581.9599999999996
+Paul Lucas,Lapsed,Lost / hibernating,803,4,1911.6100000000001,-479.21
+Paul MacIntyre,"Profitable, cooling off",Needs attention,170,6,13812.44,2705.0600000000004
+Paul Prost,Lapsed,At risk,649,8,4487.6995,252.32000000000005
+Paul Stevenson,"Profitable, cooling off",Needs attention,201,4,15715.4345,493.75
+Paul Van Hugh,"Profitable, cooling off",Lost / hibernating,302,4,40839.29,7531.210000000001
+Pauline Chand,Champions,Champions,43,14,38343.6275,5887.63
+Pauline Johnson,Lapsed,Lost / hibernating,1041,3,6044.71,-623.03
+Pauline Webber,Champions,Champions,97,9,26405.7275,4342.2
+Penelope Sewall,"Profitable, cooling off",Loyal,104,7,14089.9085,488.54999999999995
+Pete Armstrong,"Profitable, cooling off",Needs attention,175,5,13712.1675,2433.45
+Pete Kriz,Lapsed,Lost / hibernating,881,2,604.79,48.879999999999995
+Pete Takahito,"Profitable, cooling off",New / promising,51,5,8694.495,350.1700000000001
+Peter Buhler,"Profitable, cooling off",Needs attention,134,5,9281.88,616.3399999999999
+Peter Fuller,"Profitable, cooling off",Loyal,353,11,54715.744,8264.119999999999
+Peter McVee,Lapsed,New / promising,107,3,2910.13,-373.58
+Philip Brown,Champions,Champions,70,12,64716.796500000004,9715.730000000001
+Philip Fox,Champions,New / promising,19,5,13433.4105,2065.93
+Philisse Overcash,Lapsed,Lost / hibernating,408,2,8396.5,2086.02
+Phillina Ober,"Profitable, cooling off",At risk,308,6,2157.49,200.64999999999998
+Phillip Breyer,Lapsed,New / promising,75,4,2899.5400000000004,358.52
+Phillip Flathmann,Champions,Loyal,130,9,16286.2955,477.26
+Pierre Wener,Lapsed,Needs attention,102,6,4751.86,456.35999999999996
+Quincy Jones,Champions,Champions,2,19,48398.567,6192.13
+Rachel Payne,"Profitable, cooling off",Loyal,113,7,18434.280000000002,2490.19
+Ralph Arnett,Loss-making buyers,At risk,391,7,8292.69,-742.89
+Ralph Kennedy,Champions,Champions,51,12,21329.728,4761.42
+Ralph Knight,"Profitable, cooling off",At risk,358,7,10174.915,2011.74
+Randy Bradley,"Profitable, cooling off",Needs attention,143,6,18407.059999999998,2566.19
+Randy Ferguson,Loss-making buyers,Loyal,222,9,20332.1235,-308.16999999999985
+Raymond Book,Champions,Champions,59,11,70426.59,18760.59
+Raymond Fair,"Profitable, cooling off",Needs attention,134,8,8270.075,2039.87
+Resi Polking,"Profitable, cooling off",Loyal,277,9,18598.788,3615.17
+Ricardo Block,Loss-making buyers,Lost / hibernating,636,5,16004.68,-1024.8400000000001
+Ricardo Emerson,Champions,New / promising,16,4,19562.370000000003,3897.92
+Richard Bierner,"Profitable, cooling off",Needs attention,139,5,7103.9495,632.9300000000001
+Richard Eichhorn,Champions,New / promising,8,4,11783.849999999999,171.07999999999993
+Rick Bensley,"Profitable, cooling off",Needs attention,99,6,20704.2195,2601.4
+Rick Duston,"Profitable, cooling off",Needs attention,103,6,30727.311,4667.389999999999
+Rick Hansen,Loss-making buyers,Needs attention,9,10,9250.624,-390.55
+Rick Huthwaite,Lapsed,Lost / hibernating,538,2,415.82000000000005,-42.24
+Rick Reed,"Profitable, cooling off",Lost / hibernating,1431,2,32088.420000000002,11695.88
+Rick Wilson,Champions,Champions,21,14,58024.7515,16704.059999999998
+Ritsa Hightower,Champions,Champions,65,8,54630.1045,11960.800000000001
+Rob Beeghly,Loss-making buyers,Lost / hibernating,399,4,9664.17,-2039.87
+Rob Dowd,"Profitable, cooling off",Loyal,109,8,16448.427499999998,3612.9
+Rob Haberlin,Champions,Champions,89,16,39069.3685,5557.870000000001
+Rob Lucas,Lapsed,Lost / hibernating,263,2,5395.09,-837.1899999999999
+Rob Williams,Lapsed,Needs attention,143,4,3592.922,155.1
+Robert Barroso,"Profitable, cooling off",Lost / hibernating,612,5,34398.05,10996.56
+Robert Dilbeck,"Profitable, cooling off",Lost / hibernating,216,5,6232.9,1208.21
+Robert Marley,Loss-making buyers,At risk,327,7,5860.3745,-1199.59
+Robert Waldorf,"Profitable, cooling off",Lost / hibernating,480,5,9698.114,473.28999999999996
+Roger Barcio,Lapsed,Lost / hibernating,659,3,1533.01,195.48999999999998
+Roger Demir,Loss-making buyers,At risk,258,6,20742.67,-10187.919999999998
+Roland Black,Champions,Needs attention,4,6,14228.586000000001,2206.8
+Roland Fjeld,Lapsed,Needs attention,121,5,2804.93,368.96000000000004
+Roland Murray,Lapsed,New / promising,98,4,781.02,43.13
+Rose O'Brian,"Profitable, cooling off",New / promising,80,4,8584.655,2411.87
+Ross Baird,Loss-making buyers,Lost / hibernating,826,4,5602.6345,-235.54
+Ross DeVincentis,"Profitable, cooling off",Lost / hibernating,342,2,25583.82,5619.73
+Roy Collins,"Profitable, cooling off",Needs attention,176,9,11626.160000000002,1688.5200000000002
+Roy French,"Profitable, cooling off",Lost / hibernating,486,5,15290.047999999999,1236.3899999999999
+Roy Phan,Loss-making buyers,Champions,100,12,46546.165,-9613.990000000002
+Roy Skaria,Champions,Champions,27,18,92542.153,1343.9399999999996
+Ruben Ausman,Champions,New / promising,12,4,17061.5965,2844.09
+Ruben Dartt,"Profitable, cooling off",Loyal,237,7,46399.438,10647.93
+Russell Applegate,"Profitable, cooling off",Loyal,202,7,32583.0165,8981.46
+Russell D'Ascenzo,Loss-making buyers,Needs attention,161,4,928.0025,-257.36
+Ryan Akin,"Profitable, cooling off",Lost / hibernating,641,3,4327.8555,594.9000000000001
+Ryan Crowe,Champions,Needs attention,29,6,8069.1415,390.28
+Sally Hughsby,Champions,Loyal,135,16,22820.146,1993.81
+Sally Knutson,Loss-making buyers,Champions,102,15,38449.29,-953.29
+Sally Matthias,"Profitable, cooling off",Loyal,214,8,40273.752,6875.79
+Sam Craven,Loss-making buyers,At risk,240,6,6401.41,-1205.52
+Sam Zeldin,Lapsed,Lost / hibernating,763,4,1290.002,-15.010000000000012
+Sample Company A,Lapsed,Lost / hibernating,425,1,2484.7455,657.48
+Sandra Flanagan,Loss-making buyers,Loyal,107,7,13796.525,-3.0600000000000023
+Sandra Glassco,Champions,Champions,30,9,25908.939,5127.58
+Sanjit Chand,Champions,Champions,40,8,40353.994,1778.06
+Sanjit Engle,Loss-making buyers,New / promising,14,3,1896.7,-952.6100000000001
+Sanjit Jacobs,"Profitable, cooling off",Loyal,455,8,15371.42,863.6100000000001
+Saphhira Shifley,Champions,Loyal,83,11,13576.1455,1078.6499999999999
+Sara Luxemburg,Loss-making buyers,Loyal,277,12,16316.5715,-196.67000000000007
+Sarah Bern,Lapsed,Needs attention,183,5,629.7,-90.34
+Sarah Brown,Champions,Needs attention,27,9,10778.6705,1911.8899999999999
+Sarah Foster,"Profitable, cooling off",Lost / hibernating,412,5,10735.5655,936.8299999999999
+Sarah Jordon,Loss-making buyers,New / promising,102,5,8199.34,-798.31
+Scot Coram,Loss-making buyers,Needs attention,159,6,16775.2625,-951.7800000000003
+Scot Wooten,Lapsed,New / promising,33,3,1635.65,125.3
+Scott Cohen,Champions,Loyal,119,9,29811.3505,689.3800000000001
+Scott Williamson,Lapsed,Lost / hibernating,377,2,852.11,-450.4
+Sean Braxton,"Profitable, cooling off",At risk,278,6,17969.387000000002,365.94
+Sean Christensen,"Profitable, cooling off",At risk,484,6,12361.165500000001,1533.1299999999999
+Sean Miller,Champions,Needs attention,22,6,28271.0575,5581.57
+Sean O'Donnell,Champions,Needs attention,108,10,11506.3625,2411.67
+Sean Wendt,"Profitable, cooling off",Loyal,167,8,18947.68,1508.19
+Seth Vernon,"Profitable, cooling off",At risk,302,6,38977.811,148.8599999999999
+Shahid Collister,Lapsed,Lost / hibernating,290,2,11728.453,2137.96
+Shahid Hopkins,"Profitable, cooling off",Needs attention,133,6,4605.224,360.09000000000003
+Shahid Shariari,Loss-making buyers,Champions,39,14,29786.8295,-445.9700000000001
+Sharelle Roach,Lapsed,Lost / hibernating,797,3,4735.263999999999,1304.62
+Shaun Chance,"Profitable, cooling off",Loyal,437,9,12748.137999999999,1867.1899999999998
+Shaun Weien,"Profitable, cooling off",Lost / hibernating,235,4,11813.18,2024.0600000000002
+Sheri Gordon,Champions,Needs attention,72,6,22900.1275,3789.33
+Shirley Daniels,Lapsed,New / promising,105,2,12897.490000000002,1806.36
+Shirley Jackson,"Profitable, cooling off",Lost / hibernating,448,5,5333.764,671.12
+Shirley Schmidt,Loss-making buyers,New / promising,2,3,7054.7155,-460.56000000000006
+Shui Tom,"Profitable, cooling off",Lost / hibernating,252,4,27672.440000000002,7138.59
+Sibella Parks,Champions,Loyal,124,10,17557.869,2869.23
+Skye Norling,"Profitable, cooling off",Lost / hibernating,346,5,11710.830000000002,2232.49
+Sonia Cooley,Loss-making buyers,Needs attention,131,5,10086.07,-2881.2799999999997
+Sonia Sunley,Champions,Loyal,189,16,44248.829,3683.9199999999996
+Speros Goranitis,"Profitable, cooling off",Loyal,85,7,12539.34,1686.17
+Stefania Perrino,"Profitable, cooling off",New / promising,111,5,12332.5095,1660.38
+Stefanie Holloman,Lapsed,Lost / hibernating,510,2,8451.078,-39.93999999999999
+Stephanie Phelps,Champions,Needs attention,33,6,25071.544,5391.74
+Stephanie Ulpright,"Profitable, cooling off",New / promising,92,5,27898.8725,970.6199999999999
+Steve Carroll,"Profitable, cooling off",Needs attention,150,5,7032.479,585.9200000000001
+Steve Chapman,Champions,Champions,54,8,42872.99,7572.17
+Steve Nguyen,Champions,Champions,45,13,23642.811999999998,3562.8399999999997
+Steven Cartwright,Loss-making buyers,Lost / hibernating,227,4,3821.6980000000003,-1102.8999999999999
+Steven Roelle,Loss-making buyers,Needs attention,153,6,21108.357500000002,-3370.4299999999994
+Steven Ward,"Profitable, cooling off",Loyal,401,7,20241.5,7366.11
+Stewart Carmichael,Lapsed,Lost / hibernating,734,2,1134.88,-88.97
+Stewart Visinsky,"Profitable, cooling off",Needs attention,99,6,8284.9355,27.84999999999998
+Stuart Calhoun,"Profitable, cooling off",At risk,470,6,18745.6415,1579.36
+Stuart Van,Champions,New / promising,18,5,14040.89,529.7700000000001
+Sue Ann Reed,"Profitable, cooling off",Lost / hibernating,386,5,6922.817,897.3900000000001
+Sung Chung,Lapsed,New / promising,21,4,9900.2845,2542.23
+Sung Pak,Champions,Champions,10,8,20346.156000000003,3863.4500000000003
+Sung Shariari,"Profitable, cooling off",Needs attention,181,7,4984.61,574.29
+Susan Gilcrest,Lapsed,Lost / hibernating,504,3,5709.4845000000005,1638.03
+Susan MacKendrick,"Profitable, cooling off",Lost / hibernating,733,3,24129.84,3754.54
+Susan Pistek,"Profitable, cooling off",Needs attention,154,6,9169.238,1528.34
+Susan Vittorini,Champions,Champions,106,11,19146.37,2917.54
+Suzanne McNair,Champions,Champions,117,8,21327.178,3184.0299999999997
+Sylvia Foulston,Champions,Champions,80,18,88875.7575,5141.9
+Tamara Chand,Loss-making buyers,Needs attention,198,5,7676.209999999999,-2455.04
+Tamara Dahlen,Loss-making buyers,Loyal,295,7,27294.229,-453.66999999999996
+Tamara Manning,Champions,Champions,42,7,33139.6535,4538.64
+Tamara Willingham,Loss-making buyers,Loyal,278,10,30495.554,-9238.289999999999
+Tanja Norvell,Champions,Champions,106,15,37446.559,2203.7200000000003
+Ted Butterfield,Lapsed,Lost / hibernating,1072,1,2531.272,341.27
+Ted Trevino,"Profitable, cooling off",Lost / hibernating,246,5,8520.814,275.34999999999997
+Thais Sissman,Loss-making buyers,Loyal,262,12,22675.454999999998,-994.44
+Thea Hendricks,"Profitable, cooling off",Needs attention,119,5,7459.0475,653.85
+Thea Hudgings,Champions,Needs attention,15,8,8085.06,345.64
+Theone Pippenger,Loss-making buyers,Loyal,88,7,15223.730000000001,-1400.14
+Theresa Coyne,Lapsed,New / promising,53,3,8019.349999999999,390.21
+Theresa Swint,Champions,Loyal,1,13,13119.31,-431.3999999999999
+Thomas Boland,"Profitable, cooling off",Loyal,206,7,14160.6725,1086.8600000000001
+Thomas Brumley,Loss-making buyers,Needs attention,143,5,8819.5645,-287.53
+Thomas Seio,"Profitable, cooling off",Lost / hibernating,630,3,12864.07,1419.29
+Thomas Thornton,"Profitable, cooling off",Needs attention,203,7,11081.0615,2141.88
+Tiffany House,Lapsed,Lost / hibernating,887,1,617.92,-90.21000000000001
+Tim Brockman,"Profitable, cooling off",Loyal,747,7,23653.516499999998,3966.74
+Tim Taslimi,"Profitable, cooling off",Needs attention,126,6,12331.7925,1083.38
+Toby Braunhardt,Lapsed,Lost / hibernating,1234,1,1060.342,-1.2999999999999972
+Toby Carlisle,"Profitable, cooling off",Needs attention,106,6,15070.041,3826.0899999999997
+Toby Grace,"Profitable, cooling off",Needs attention,98,5,18129.8615,6324.2
+Toby Knight,Lapsed,Lost / hibernating,320,4,4873.847,409.90999999999997
+Toby Swindell,Loss-making buyers,Loyal,324,7,13089.786,-1624.96
+Todd Boyes,Champions,Champions,109,9,33070.6105,8070.969999999999
+Todd Sumrall,Lapsed,Lost / hibernating,373,2,3226.9795,-42.2
+Tom Ashbrook,"Profitable, cooling off",Lost / hibernating,689,3,12422.871,2018.6800000000003
+Tom Boeckenhauer,Champions,Needs attention,74,7,10719.979,1384.0200000000002
+Tom Prescott,Loss-making buyers,Needs attention,50,11,8761.64,-719.88
+Tom Stivers,"Profitable, cooling off",Loyal,238,10,16842.6915,3067.8599999999997
+Tom Zandusky,"Profitable, cooling off",New / promising,36,3,5186.99,81.23000000000002
+Tonja Turnell,Champions,Champions,106,11,45788.67,5748.97
+Tony Chapman,"Profitable, cooling off",At risk,284,5,41020.627,776.53
+Tony Molinari,Loss-making buyers,Needs attention,1,6,12002.08,-1093.74
+Tony Sayre,Champions,Champions,15,16,29860.555,3745.75
+Tracy Blumstein,"Profitable, cooling off",At risk,318,5,13049.6585,2033.96
+Tracy Collins,Champions,Loyal,204,11,28834.656,7432.88
+Tracy Hopkins,"Profitable, cooling off",At risk,287,5,11853.5175,1891.07
+Tracy Poddar,Champions,Needs attention,113,10,9212.673999999999,2450.48
+Tracy Zic,"Profitable, cooling off",New / promising,42,4,19018.65,2791.79
+Troy Blackwell,Champions,Champions,93,9,26184.5915,4780.76
+Troy Staebel,Loss-making buyers,Needs attention,133,7,8422.81,-916.2
+Trudy Bell,Lapsed,At risk,514,8,3948.658,99.33999999999995
+Trudy Brown,Lapsed,At risk,626,6,4784.589999999999,761.2099999999999
+Trudy Schmidt,"Profitable, cooling off",Needs attention,203,5,5428.99,1033.8
+Valerie Dominguez,"Profitable, cooling off",Needs attention,136,7,7052.120000000001,787.0
+Valerie Mitchum,"Profitable, cooling off",New / promising,98,4,12911.4315,2430.31
+Valerie Takahito,Champions,Champions,99,11,39517.0705,7936.08
+Vicky Freymann,"Profitable, cooling off",Needs attention,123,6,20949.488,3647.23
+Victor Price,"Profitable, cooling off",Needs attention,190,5,6329.3885,1059.05
+Victoria Brennan,"Profitable, cooling off",Needs attention,140,8,9011.42,1380.97
+Victoria Pisteka,"Profitable, cooling off",Loyal,266,10,19614.363,3597.94
+Victoria Wilson,Champions,Champions,109,8,42960.68,3926.0899999999997
+Vivek Gonzalez,Lapsed,At risk,395,5,7054.69,-726.23
+Vivek Grady,Champions,Champions,41,12,27147.0255,3123.55
+Vivek Sundaresam,Loss-making buyers,Loyal,17,8,12155.528,-1474.58
+Vivian Mathis,Champions,Champions,55,11,29420.89,1705.8899999999999
+William Brown,Champions,Champions,11,15,38872.590000000004,5886.45
+Xylona Price,Champions,Loyal,25,7,18037.0855,1124.2199999999998
+Yana Sorensen,Lapsed,Needs attention,133,6,1987.1599999999999,-261.53
+Yoseph Carroll,"Profitable, cooling off",Needs attention,74,7,10535.318,744.6700000000001
